@@ -1,0 +1,1 @@
+All commits to be done to "dev-branch" and pull requests to be created to "master" branch
